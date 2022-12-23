@@ -16,7 +16,7 @@ Trata-se de um sistema CRUD para cadastrar veículos e aguendar manutenções pa
 - [Bootstrap]
 
 ## Instalação
-1º - git clone https://github.com/DaniKoehler/teste-supera main
+1º - git clone https://github.com/DaniKoehler/teste-supera
 
 2º - composer install
 
